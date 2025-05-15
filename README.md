@@ -20,5 +20,10 @@
 🚀 [Watch my LinkedIn project demo on AI Voice Assistant]([https://www.linkedin.com/posts/nsatvika_your-post-id](https://www.linkedin.com/posts/nsatvika_python-artificialintelligence-gamedevelopment-activity-7291701901715193856-r4SY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs_TBIB50thNYC1RHbosCru1nmThzI6LRE))
 
 > A quick walkthrough of my Python-based voice assistant project – using speech recognition and text-to-speech!
+## ✍️ Handwritten Text Recognition Demo
+
+[![Watch on LinkedIn](https://img.shields.io/badge/▶%20Watch%20Demo%20on%20LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/posts/nsatvika_your-handwriting-post-link](https://www.linkedin.com/posts/nsatvika_ocr-imageprocessing-tesseract-activity-7265360910892834816-di_q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs_TBIB50thNYC1RHbosCru1nmThzI6LRE))
+
+> A Python project that converts handwritten text to digital format using OCR with PyTesseract.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
