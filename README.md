@@ -22,7 +22,7 @@
 > A quick walkthrough of my Python-based voice assistant project – using speech recognition and text-to-speech!
 ## ✍️ Handwritten Text Recognition Demo
 
-[![Watch my LinkedIn project demo on Handwriting to text conversion AI](https://www.linkedin.com/posts/nsatvika_ocr-imageprocessing-tesseract-activity-7265360910892834816-di_q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs_TBIB50thNYC1RHbosCru1nmThzI6LRE))
+🚀[Watch my LinkedIn project demo on Handwriting to text conversion AI](https://www.linkedin.com/posts/nsatvika_ocr-imageprocessing-tesseract-activity-7265360910892834816-di_q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs_TBIB50thNYC1RHbosCru1nmThzI6LRE))
 
 > A Python project that converts handwritten text to digital format using OCR with PyTesseract.
 
