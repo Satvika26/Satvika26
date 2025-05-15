@@ -15,6 +15,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Satvika26&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/Satvika26/Satvika26/blob/output/github-snake-dark.svg)
+
 ## 🎥  Tic Tac Toe AI
 
 🚀 [Watch my LinkedIn project demo on AI Tic Tac Toe]([https://www.linkedin.com/posts/nsatvika_python-artificialintelligence-gamedevelopment-activity-7291701901715193856-r4SY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs_TBIB50thNYC1RHbosCru1nmThzI6LRE])
