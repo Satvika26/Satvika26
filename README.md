@@ -15,9 +15,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Satvika26&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🎥 Featured Video
+## 🎥  Tic Tac Toe AI
 
-🚀 [Watch my LinkedIn project demo on AI Tic Tac Toe]([https://www.linkedin.com/posts/nsatvika_your-post-id](https://www.linkedin.com/posts/nsatvika_python-artificialintelligence-gamedevelopment-activity-7291701901715193856-r4SY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs_TBIB50thNYC1RHbosCru1nmThzI6LRE])
+🚀 [Watch my LinkedIn project demo on AI Tic Tac Toe]([https://www.linkedin.com/posts/nsatvika_python-artificialintelligence-gamedevelopment-activity-7291701901715193856-r4SY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs_TBIB50thNYC1RHbosCru1nmThzI6LRE])
 
 > A quick walkthrough of my Python-based voice assistant project – using speech recognition and text-to-speech!
 ## ✍️ Handwritten Text Recognition Demo
