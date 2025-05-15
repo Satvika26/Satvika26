@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 👋# 💫 About Me:
  Hi, I’m Satvika Neelakantam, an AI & ML undergrad passionate about building smart, impactful solutions.<br>🔍 I explore NLP, deep learning, LSTMs, and ethical hacking to solve real-world challenges.<br>🧠 Skilled in Python, TensorFlow, Keras, Scikit-learn, and more.<br>💻 Projects include voice assistants, stock prediction, sentiment analysis, and OCR.<br>📚 Currently diving into LLMs, Transformers, and real-time AI systems.
 
 
