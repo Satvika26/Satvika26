@@ -44,3 +44,5 @@ Whether it's teaching a machine to understand language, recognize patterns, or p
 💬 Let’s collaborate, code, and create something impactful.  
 ⭐ Check out my repositories and feel free to connect!
 
+![Satvika26's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satvika26&show_icons=true&theme=radical)
+
